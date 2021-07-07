@@ -10,4 +10,4 @@
 
 ## Author
 
-  By Jacek Z 2020, *[JProjects](https://jprojectssite.wixsite.com/home)*
+  By Jacek Z 2020

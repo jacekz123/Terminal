@@ -4,7 +4,7 @@
 
   Simple terminal made with HTML, CSS and JS (look down - 1st position)
   * [Terminal](terminal/index.html)
-  * [Terminal with textarea](terminal z textarea/index.html)
+  * [Terminal with textarea](terminal%20z%20textarea/index.html)
 
 ## Sources
 
